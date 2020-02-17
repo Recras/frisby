@@ -1,9 +1,6 @@
 # Frisby
 
-[![NPM](https://nodei.co/npm/frisby.png)](https://nodei.co/npm/frisby/)
-[![Build
-Status](https://travis-ci.org/vlucas/frisby.png?branch=master)](https://travis-ci.org/vlucas/frisby)
-
+This is a fork of the legacy 0.8 branch of the frisby testing package by Vance Lucas.
 A node.js NPM module that makes testing API endpoints easy, fast and fun.
 
 
@@ -11,7 +8,7 @@ A node.js NPM module that makes testing API endpoints easy, fast and fun.
 
 Install Frisby from NPM:
 
-    npm install frisby
+    npm install @recras/legacy-frisby
 
 
 ## Creating Tests

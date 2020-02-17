@@ -1,6 +1,6 @@
 {
-  "name": "frisby",
-  "version": "0.8.5-recras2",
+  "name": "@recras/legacy-frisby",
+  "version": "0.9.0",
   "description": "Frisby.js: REST API Endpoint Testing built on Jasmine",
   "homepage": "http://frisbyjs.com",
   "author": "Vance Lucas <vance@vancelucas.com>",
@@ -8,12 +8,13 @@
     "type": "BSD"
   },
   "contributors": [
+    "Recras B.V. <devs@recras.nl>",
     "Eric Boehs <ericboehs@gmail.com>",
     "Kevin Morey"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/vlucas/frisby"
+    "url": "http://github.com/Recras/frisby"
   },
   "keywords": [
     "testing",
